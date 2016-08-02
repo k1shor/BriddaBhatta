@@ -1,0 +1,9 @@
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\BriddaBhatta.BLL.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\BriddaBhatta.BLL.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\BriddaBhatta.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\LFA.Forum.DAL.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\BriddaBhatta.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\bin\Debug\LFA.Forum.DAL.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\obj\Debug\BriddaBhatta.BLL.csprojResolveAssemblyReference.cache
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\obj\Debug\BriddaBhatta.BLL.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta.BLL\obj\Debug\BriddaBhatta.BLL.pdb

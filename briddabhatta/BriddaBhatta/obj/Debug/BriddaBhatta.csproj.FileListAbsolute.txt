@@ -1,0 +1,14 @@
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.exe.config
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.exe
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.BLL.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\LFA.Forum.DAL.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.dll
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\BriddaBhatta.BLL.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\bin\Debug\LFA.Forum.DAL.pdb
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.csprojResolveAssemblyReference.cache
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.Form1.resources
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.Properties.Resources.resources
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.csproj.GenerateResource.Cache
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.exe
+E:\Project\Projects\Solution File\BriddaBhatta\BriddaBhatta\obj\Debug\BriddaBhatta.pdb
